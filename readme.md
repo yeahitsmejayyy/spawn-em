@@ -1,6 +1,6 @@
 # SPAWN-EM 🌌
 
-![SPAWN-EM Banner](https://res.cloudinary.com/dgah9ureo/image/upload/v1695267559/spawn-em/lq7pthhzhmdbf7fng3qn.png)
+![SPAWN-EM Banner](https://res.cloudinary.com/dgah9ureo/image/upload/v1695268051/spawn-em/i1xnpmp2afravttefz8h.png)
 
 ## Overview
 Harness the power of **SPAWN-EM** - a CLI tool developed with principles inspired by the Jedi archives. This utility gathers your apps in harmony, much like a Jedi meditating to summon objects with the Force. Perfect for those times when you desire efficiency and focus as you embark on your coding quests.
