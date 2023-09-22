@@ -1,12 +1,9 @@
 {
     "Dev": [
         {
-            "path": "C:\\path\\to\\Code.exe",
-            "args": ["--folder-uri=your_project_directory"]
-        },
-        {
-            "path": "C:\\path\\to\\chrome.exe",
-            "args": ["--new-window", "http://localhost:3000"]
+            "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+            "args": ["https://github.com/yeahitsmejayyy/spawn-em"]
         }
     ]
 }
+

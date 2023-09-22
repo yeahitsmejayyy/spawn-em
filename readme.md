@@ -36,16 +36,13 @@ For more personalized setups, you can tailor the `apps.json`.
 
 ## Sample `apps.json` Setup
 To test the balance of this tool, use this configuration:
-```json
+```json 
 {
     "Dev": [
         {
-            "path": "C:\\path\\to\\Code.exe",
-            "args": ["--folder-uri=your_project_directory"]
-        },
-        {
-            "path": "C:\\path\\to\\chrome.exe",
-            "args": ["--new-window", "http://localhost:3000"]
+            "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+            "args": ["https://github.com/yeahitsmejayyy/spawn-em"]
         }
     ]
 }
+```
