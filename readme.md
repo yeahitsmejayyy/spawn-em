@@ -12,7 +12,8 @@ Ever felt like maneuvering through a labyrinth of apps and services, similar to 
 1. Clone the repository:
     ```bash
     git clone https://github.com/yeahitsmejayyy/spawn-em.git
-    
+    ```
+    ```bash
     cd spawn-em
     ```
 
@@ -21,9 +22,10 @@ Ever felt like maneuvering through a labyrinth of apps and services, similar to 
 3. Execute the program:
     ```bash
     python main.py
-    
+    ```
     or
-
+    
+    ```bash
     python3 main.py
     ```
 
