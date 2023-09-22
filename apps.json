@@ -1,0 +1,12 @@
+{
+    "Dev": [
+        {
+            "path": "C:\\path\\to\\Code.exe",
+            "args": ["--folder-uri=your_project_directory"]
+        },
+        {
+            "path": "C:\\path\\to\\chrome.exe",
+            "args": ["--new-window", "http://localhost:3000"]
+        }
+    ]
+}
